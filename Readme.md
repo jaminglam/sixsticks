@@ -1,0 +1,3 @@
+#SixSticks Problem
+
+Initial
