@@ -1,3 +1,3 @@
-#SixSticks Problem
+# SixSticks Problem
 
 Initial
